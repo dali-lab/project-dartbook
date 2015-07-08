@@ -38,8 +38,8 @@ We'll have to use some Terminal command line dark magic here.  Copy/paste is you
 
   <br>![](docs/img/square.png) 2.0)  Open Terminal (on Windows open Git Shell)
   <br>![](docs/img/square.png) 2.1)  ```cd ~/Desktop```
-  <br>![](docs/img/square.png) 2.2)  ```git clone https://github.com/dali-lab/project-darby.git```
-  <br>![](docs/img/square.png) 2.3)  ```cd project-darby```
+  <br>![](docs/img/square.png) 2.2)  ```git clone https://github.com/dali-lab/project-dartbook.git```
+  <br>![](docs/img/square.png) 2.3)  ```cd project-dartbook```
 
 what this does is change directory to your Desktop, then clones the the tutorial repository there, and then you cd into that cloned repository.  For the rest of this tutorial we assume that you have a Terminal window open and that you are cd'd into the repository you just cloned.  If you get any errors in the above give a shout!
 
@@ -147,7 +147,7 @@ Now that you've resolved any conflicts you're ready to push to the remote reposi
 
 ###Done!
 
-Now you can go to [http://dali-lab.github.io/project-darby](http://dali-lab.github.io/project-darby) to see your site!
+Now you can go to [http://dali-lab.github.io/project-dartbook](http://dali-lab.github.io/project-dartbook) to see your site!
 
 
 <br>
