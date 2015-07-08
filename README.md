@@ -147,7 +147,7 @@ Now that you've resolved any conflicts you're ready to push to the remote reposi
 
 ###Done!
 
-Now you can go to [http://dali-lab.github.io/project-name](http://dali-lab.github.io/project-darby) to see your site!
+Now you can go to [http://dali-lab.github.io/project-darby](http://dali-lab.github.io/project-darby) to see your site!
 
 
 <br>
